@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  <category>
+    <pattern>*</pattern>
+    <that>tell you about what</that>
+    <template>
+        <srai>tell me about</srai>
+    </template>
+  </category>
+</aiml>
